@@ -1,6 +1,7 @@
+![Logo](https://github.com/gourango-cse/gourango-cse/blob/4f78d7654f15c0c653c0e9b81e50d3f6ca3b5739/banner.gif)
 <h1 align="center">Hi 👋, I'm Gourango Mandal</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<img align="right" alt="Coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.guvi.in%2Fblog%2Fare-front-end-developers-paid-less-than-back-end-developers%2F&psig=AOvVaw1y_hamvBL_4t1iNitfMtIx&ust=1690782730147000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOD3ltXetYADFQAAAAAdAAAAABAD">
+<img align="right" alt="Coding" Width="400" src="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourango-cse&label=Profile%20views&color=0e75b6&style=flat" alt="gourango-cse" /> </p>
 
