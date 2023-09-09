@@ -1,6 +1,6 @@
 ![Logo](https://github.com/gourango-cse/gourango-cse/blob/4f78d7654f15c0c653c0e9b81e50d3f6ca3b5739/banner.gif)
 <h1 align="center">Hi 👋, I'm Gourango Mandal</h1>
-<h3 align="center">A passionate Full Stack Developer.</h3>
+<h3 align="center">A passionate Full Stack Developer from INDIA.</h3>
 <img align="right" alt="Coding" Width="200" src="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourango-cse&label=Profile%20views&color=0e75b6&style=flat" alt="gourango-cse" /> </p>
