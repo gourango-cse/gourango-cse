@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript.**
 
-- 📫 How to reach me **gourango.cse@outlook.in**
+- 📫 How to reach me **connect.gourango@gmail.com**
 
 - 📄 Know about my experiences [Portfolio](https://gourango-cse.github.io/myresume/)
 
