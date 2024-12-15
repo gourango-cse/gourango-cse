@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/gourango_" target="blank"><img src="https://img.shields.io/twitter/follow/gourango_?logo=twitter&style=for-the-badge" alt="gourango_" /></a> </p>
 
+-    I’m Pursuing my M.Tech **on Software Engineering.**
+  
 - 🔭 I’m currently completed my Graduate **on Computer Science & Engineering with 9.3 DGPA.**
 
-- 🌱 I’m currently learning **React & NodeJs**
+- 🌱 I’m currently learning **Latex**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/gourango-cse/)
 
