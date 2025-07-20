@@ -1,6 +1,6 @@
 ![Logo](https://github.com/gourango-cse/gourango-cse/blob/4f78d7654f15c0c653c0e9b81e50d3f6ca3b5739/banner.gif)
 <h1 align="center">Hi 👋, I'm Gourango Mandal</h1>
-<h3 align="center">A passionate Full Stack Developer from INDIA.</h3>
+<h3 align="center">Passionate researcher driven by curiosity and committed to advancing knowledge through data, experimentation, and innovation.</h3>
 <img align="right" alt="Coding" Width="200" src="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourango-cse&label=Profile%20views&color=0e75b6&style=flat" alt="gourango-cse" /> </p>
@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/gourango-cse/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript.**
-
 - 📫 How to reach me **connect.gourango@gmail.com**
 
 - 📄 Know about my experiences [Portfolio](https://gourango-cse.github.io/myresume/)
@@ -25,6 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://orcid.org/0009-0006-7555-8633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/orcid.svg" alt="0009-0006-7555-8633" height="30" width="40" /></a>
 <a href="https://twitter.com/gourango_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gourango_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gourango-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourango-cse" height="30" width="40" /></a>
 <a href="https://codesandbox.com/gourango-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="gourango-cse" height="30" width="40" /></a>
