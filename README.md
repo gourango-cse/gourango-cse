@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourango-cse&label=Profile%20views&color=0e75b6&style=flat" alt="gourango-cse" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gourango_" target="blank"><img src="https://img.shields.io/twitter/follow/gourango_?logo=twitter&style=for-the-badge" alt="gourango_" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/gourango-mandal" target="blank"><img src="https://img.shields.io/linkedin/follow/gourango-mandal?logo=linkedin&style=for-the-badge" alt="gourango_" /></a> </p>
 
 -    I’m Pursuing my M.Tech **on Software Engineering.**
   
@@ -31,6 +31,7 @@
 <a href="https://medium.com/@gourango-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gourango-cse" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gourango-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gourango-cse" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gourango-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gourango-cse" height="30" width="40" /></a>
+  <a href="(https://orcid.org/0009-0006-7555-8633)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/orcid.svg" alt="gourango-cse" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
