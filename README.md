@@ -1,7 +1,7 @@
 # 👨‍🔬 Gourango Mandal
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gourango-cse/gourango-cse/4f78d7654f15c0c653c0e9b81e50d3f6ca3b5739/banner.gif" width="100%" alt="Gourango Mandal Research Banner"/>
+  <img src="https://github.com/gourango-cse/gourango-cse/blob/main/Gourango%20Mandal_%20Intelligent%20Research%20Futures.png" width="100%" alt="Gourango Mandal Research Banner"/>
 </p>
 
 <h3 align="center">Assistant Professor | Department of Computer Science & Engineering</h3>
